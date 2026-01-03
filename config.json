@@ -1,0 +1,1557 @@
+{
+  "heroImage": "http://gzydjh.asia/LOGO/7f162e9c412ecb396cf96db2385b6b9b.png",
+  "heroVideo": "http://gzydjh.asia/%E5%BC%80%E7%AF%87%E8%83%8C%E6%99%AF%E5%9B%BE/%E9%A6%96%E9%A1%B5%E8%A7%86%E9%A2%912_1.mp4",
+  "heroTitleImage": "",
+  "heroTitleImageScale": 100,
+  "aboutHeroImage": "http://gzydjh.asia/AI%E4%BF%AE%E5%9B%BE/qqqq.jpg-NO",
+  "introLogos": [
+    "",
+    "",
+    ""
+  ],
+  "clientLogos": "http://gzydjh.asia/%E6%9C%8D%E5%8A%A1%E5%95%86LOGO/a79a70035cd3ebc40992dfe21e125a4f.png",
+  "clientLogosScale": 100,
+  "sectionBackgrounds": {
+    "about": "",
+    "services": "",
+    "portfolio": "",
+    "contact": ""
+  },
+  "services": [
+    {
+      "id": 1,
+      "title": "品牌平面设计及规划",
+      "description": "VIS视觉品牌设计、室内外文化墙宣传展板、创意海报、画册制作。",
+      "iconName": "Palette",
+      "category": "BRAND"
+    },
+    {
+      "id": 2,
+      "title": "影视拍摄及后期（精选视频）",
+      "description": "企业宣传片、微电影、广告片录制、后期剪辑、影视调色、航拍。",
+      "iconName": "Clapperboard",
+      "category": "VIDEO"
+    },
+    {
+      "id": 3,
+      "title": "原创独立音乐制作",
+      "description": "【龙予成林音乐工作室】专属BGM制作、游戏编曲、广告片编曲录制。",
+      "iconName": "Music",
+      "category": "MUSIC"
+    },
+    {
+      "id": 4,
+      "title": "线下活动搭建",
+      "description": "活动现场视觉规划及搭建、开业典礼、论坛会议、年会策划执行。",
+      "iconName": "Tent",
+      "category": "EVENT"
+    },
+    {
+      "id": 5,
+      "title": "广告物料 & 印刷",
+      "description": "自有印刷厂房，提供广告物料供应安装、纸质印刷品制作一站式服务。",
+      "iconName": "Printer",
+      "category": "PRINT"
+    },
+    {
+      "id": 1765868176071,
+      "title": "企业&学校交流",
+      "description": "请输入服务描述...",
+      "iconName": "Star",
+      "category": "SERVICE_1765868176071"
+    }
+  ],
+  "portfolio": [
+    {
+      "id": 1765872850059,
+      "title": "专业拍摄&后期团队",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/1.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/1.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/3.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/4.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/5.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E7%9F%AD%E5%89%A7%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765869157014,
+      "title": "“中国十大国之重器”—伏羲芯片宣传片拍摄",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%E2%80%9D%E2%80%94%E4%BC%8F%E7%BE%B2%E8%8A%AF%E7%89%87%E5%AE%A3%E4%BC%A0%E7%89%87%E6%8B%8D%E6%91%84%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E2%80%9C%E4%B8%AD%E5%9B%BD%E5%8D%81%E5%A4%A7%E5%9B%BD%E4%B9%8B%E9%87%8D%E5%99%A8%E2%80%9D%E2%80%94%E4%BC%8F%E7%BE%B2%E8%8A%AF%E7%89%87%E5%AE%A3%E4%BC%A0%E7%89%87%E6%8B%8D%E6%91%84%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示",
+      "videoUrl": ""
+    },
+    {
+      "id": 1765870612101,
+      "title": "构皮滩水电站通航工程”【创下了六项技术指标世界之最】",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E6%9E%84%E7%9A%AE%E6%BB%A9.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E6%9E%84%E7%9A%AE%E6%BB%A9%E6%B0%B4%E7%94%B5%E7%AB%99%E9%80%9A%E8%88%AA%E5%B7%A5%E7%A8%8B%E2%80%9D%E3%80%90%E5%88%9B%E4%B8%8B%E4%BA%86%E5%85%AD%E9%A1%B9%E6%8A%80%E6%9C%AF%E6%8C%87%E6%A0%87%E4%B8%96%E7%95%8C%E4%B9%8B%E6%9C%80%E3%80%91.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873544653,
+      "title": "国际山地旅游联盟会议拍摄制作",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%9B%BD%E9%99%85%E5%B1%B1%E5%9C%B0%E6%97%85%E6%B8%B8%E8%81%94%E7%9B%9F.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%9B%BD%E9%99%85%E5%B1%B1%E5%9C%B0%E6%97%85%E6%B8%B8%E8%81%94%E7%9B%9F.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873131754,
+      "title": "2023贵州省健康管理师协会 换届大会活动视频及拍摄工作",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2023%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E5%B8%88%E5%8D%8F%E4%BC%9A%20%E6%8D%A2%E5%B1%8A%E5%A4%A7%E4%BC%9A%E6%B4%BB%E5%8A%A8%E8%A7%86%E9%A2%91%E5%8F%8A%E6%8B%8D%E6%91%84%E5%B7%A5%E4%BD%9C%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2023%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86%E5%B8%88%E5%8D%8F%E4%BC%9A%20%E6%8D%A2%E5%B1%8A%E5%A4%A7%E4%BC%9A%E6%B4%BB%E5%8A%A8%E8%A7%86%E9%A2%91%E5%8F%8A%E6%8B%8D%E6%91%84%E5%B7%A5%E4%BD%9C%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765869152967,
+      "title": "铁头集团党建宣传片",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E4%B8%AD%E9%93%81%E5%BB%BA%E5%85%9A%E5%BB%BA%E5%AD%A6%E4%B9%A0%E5%AE%A3%E4%BC%A0%E7%89%87%202.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E4%B8%AD%E9%93%81%E5%BB%BA%E5%85%9A%E5%BB%BA%E5%AD%A6%E4%B9%A0%E5%AE%A3%E4%BC%A0%E7%89%87%202.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E9%93%81%E5%BB%BA%E5%85%9A%E5%BB%BA%E5%AD%A6%E4%B9%A0%E5%AE%A3%E4%BC%A0%E7%89%87%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765874114986,
+      "title": "贵州南方电网信息中心宣传片拍摄",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E8%B4%B5%E5%B7%9E%E5%8D%97%E6%96%B9%E7%94%B5%E7%BD%91%E4%BF%A1%E6%81%AF%E4%B8%AD%E5%BF%83%E5%AE%A3%E4%BC%A0%E7%89%87%E6%8B%8D%E6%91%84%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E8%B4%B5%E5%B7%9E%E5%8D%97%E6%96%B9%E7%94%B5%E7%BD%91%E4%BF%A1%E6%81%AF%E4%B8%AD%E5%BF%83%E5%AE%A3%E4%BC%A0%E7%89%87%E6%8B%8D%E6%91%84%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873110069,
+      "title": "贵州南网电动智能充电宣传片拍摄",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2023%E8%B4%B5%E5%B7%9E%E5%8D%97%E7%BD%91%E7%94%B5%E5%8A%A8%20%E5%AE%A3%E4%BC%A0%E7%89%87%E6%8B%8D%E6%91%84%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2023%E8%B4%B5%E5%B7%9E%E5%8D%97%E7%BD%91%E7%94%B5%E5%8A%A8%20%E5%AE%A3%E4%BC%A0%E7%89%87%E6%8B%8D%E6%91%84%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873081222,
+      "title": "2023贵安南方电动汽车展",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2023%E8%B4%B5%E5%AE%89%E5%8D%97%E6%96%B9%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%B1%95%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2023%E8%B4%B5%E5%AE%89%E5%8D%97%E6%96%B9%E7%94%B5%E5%8A%A8%E6%B1%BD%E8%BD%A6%E5%B1%95%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765874135293,
+      "title": "黔通智联合作党建微电影",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E9%BB%94%E9%80%9A%E6%99%BA%E8%81%94%E5%90%88%E4%BD%9C%E5%85%9A%E5%BB%BA%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%8B%8D%E6%91%84%E9%A1%B9%E7%9B%AE%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E9%BB%94%E9%80%9A%E6%99%BA%E8%81%94%E5%90%88%E4%BD%9C%E5%85%9A%E5%BB%BA%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%8B%8D%E6%91%84%E9%A1%B9%E7%9B%AE%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765874090583,
+      "title": "贵州医科大校区 合作拍摄党100周岁",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E8%B4%B5%E5%B7%9E%E5%8C%BB%E7%A7%91%E5%A4%A7%E6%A0%A1%E5%8C%BA%20%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84%E5%85%9A100%E5%91%A8%E5%B2%81%E9%A1%B9%E7%9B%AE%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E8%B4%B5%E5%B7%9E%E5%8C%BB%E7%A7%91%E5%A4%A7%E6%A0%A1%E5%8C%BA%20%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84%E5%85%9A100%E5%91%A8%E5%B2%81%E9%A1%B9%E7%9B%AE%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873982725,
+      "title": "监狱微电影拍摄",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E7%9B%91%E7%8B%B1%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%8B%8D%E6%91%84.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E7%9B%91%E7%8B%B1%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%8B%8D%E6%91%84.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765869156369,
+      "title": "农商银行合作拍摄党政宣传片",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%B7%9E%E5%86%9C%E5%95%86%E9%93%B6%E8%A1%8C%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84%E5%85%9A%E6%94%BF%E5%AE%A3%E4%BC%A0%E7%89%87%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%B7%9E%E5%86%9C%E5%95%86%E9%93%B6%E8%A1%8C%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84%E5%85%9A%E6%94%BF%E5%AE%A3%E4%BC%A0%E7%89%87%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873654219,
+      "title": "工行合作拍摄--优秀个人事迹视频宣传",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%B7%A5%E8%A1%8C%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84--%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E4%BA%8B%E8%BF%B9%E8%A7%86%E9%A2%91%E5%AE%A3%E4%BC%A0%E7%89%87%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%B7%A5%E8%A1%8C%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84--%E4%BC%98%E7%A7%80%E4%B8%AA%E4%BA%BA%E4%BA%8B%E8%BF%B9%E8%A7%86%E9%A2%91%E5%AE%A3%E4%BC%A0%E7%89%87%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765869156215,
+      "title": "国贸集团合作拍摄以及后期制作项目--玖福城",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%9B%BD%E8%B4%B8%E9%9B%86%E5%9B%A2%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84%E4%BB%A5%E5%8F%8A%E5%90%8E%E6%9C%9F%E5%88%B6%E4%BD%9C%E9%A1%B9%E7%9B%AE%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%9B%BD%E8%B4%B8%E9%9B%86%E5%9B%A2%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84%E4%BB%A5%E5%8F%8A%E5%90%8E%E6%9C%9F%E5%88%B6%E4%BD%9C%E9%A1%B9%E7%9B%AE%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765871001926,
+      "title": "贵州苏宁创维新品宣传片",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E8%8B%8F%E5%AE%81.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E8%8B%8F%E5%AE%81.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E8%B4%B5%E5%B7%9E%E8%8B%8F%E5%AE%81%E5%88%9B%E7%BB%B4%E6%96%B0%E5%93%81%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765870976153,
+      "title": "2021年与联动云贵州分公司合作拍摄以及后期制作项目",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2021%E5%B9%B4%E4%B8%8E%E8%81%94%E5%8A%A8%E4%BA%91%E8%B4%B5%E5%B7%9E%E5%88%86%E5%85%AC%E5%8F%B8%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84%E4%BB%A5%E5%8F%8A%E5%90%8E%E6%9C%9F%E5%88%B6%E4%BD%9C%E9%A1%B9%E7%9B%AE%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2021%E5%B9%B4%E4%B8%8E%E8%81%94%E5%8A%A8%E4%BA%91%E8%B4%B5%E5%B7%9E%E5%88%86%E5%85%AC%E5%8F%B8%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84%E4%BB%A5%E5%8F%8A%E5%90%8E%E6%9C%9F%E5%88%B6%E4%BD%9C%E9%A1%B9%E7%9B%AE%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873151645,
+      "title": "贵州省地质环境监测院拍摄宣传片",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2023%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%9C%B0%E8%B4%A8%E7%8E%AF%E5%A2%83%E7%9B%91%E6%B5%8B%E9%99%A2%E6%8B%8D%E6%91%84%E5%AE%A3%E4%BC%A0%E7%89%87%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2023%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%9C%B0%E8%B4%A8%E7%8E%AF%E5%A2%83%E7%9B%91%E6%B5%8B%E9%99%A2%E6%8B%8D%E6%91%84%E5%AE%A3%E4%BC%A0%E7%89%87%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765874070849,
+      "title": "表彰大会活动拍摄",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E8%A1%A8%E5%BD%B0%E5%A4%A7%E4%BC%9A%E6%B4%BB%E5%8A%A8%E6%8B%8D%E6%91%84%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E8%A1%A8%E5%BD%B0%E5%A4%A7%E4%BC%9A%E6%B4%BB%E5%8A%A8%E6%8B%8D%E6%91%84%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873066354,
+      "title": "2023《九九重阳·今又重阳》活动 视屏制作及活动拍摄制作",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2023%E3%80%8A%E4%B9%9D%E4%B9%9D%E9%87%8D%E9%98%B3%C2%B7%E4%BB%8A%E5%8F%88%E9%87%8D%E9%98%B3%E3%80%8B%E6%B4%BB%E5%8A%A8%20%E8%A7%86%E5%B1%8F%E5%88%B6%E4%BD%9C%E5%8F%8A%E6%B4%BB%E5%8A%A8%E6%8B%8D%E6%91%84%E5%88%B6%E4%BD%9C%20.png-NO",
+      "description": "2023《九九重阳·今又重阳》活动 视屏制作及活动拍摄制作",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2023%E3%80%8A%E4%B9%9D%E4%B9%9D%E9%87%8D%E9%98%B3%C2%B7%E4%BB%8A%E5%8F%88%E9%87%8D%E9%98%B3%E3%80%8B%E6%B4%BB%E5%8A%A8%20%E8%A7%86%E5%B1%8F%E5%88%B6%E4%BD%9C%E5%8F%8A%E6%B4%BB%E5%8A%A8%E6%8B%8D%E6%91%84%E5%88%B6%E4%BD%9C%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873759940,
+      "title": "慢性病防止及国民营养健康知识会议拍摄",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E6%85%A2%E6%80%A7%E7%97%85%E9%98%B2%E6%AD%A2%E5%8F%8A%E5%9B%BD%E6%B0%91%E8%90%A5%E5%85%BB%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AF%86%E4%BC%9A%E8%AE%AE%E6%8B%8D%E6%91%84%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E6%85%A2%E6%80%A7%E7%97%85%E9%98%B2%E6%AD%A2%E5%8F%8A%E5%9B%BD%E6%B0%91%E8%90%A5%E5%85%BB%E5%81%A5%E5%BA%B7%E7%9F%A5%E8%AF%86%E4%BC%9A%E8%AE%AE%E6%8B%8D%E6%91%84%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873593468,
+      "title": "奥卡之星小主持人活动",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%A5%A5%E5%8D%A1%E4%B9%8B%E6%98%9F%E5%90%88%E4%BD%9C%20%E6%8B%8D%E6%91%84%E4%B8%8E%E5%90%8E%E6%9C%9F%E5%88%B6%E4%BD%9C%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%A5%A5%E5%8D%A1%E4%B9%8B%E6%98%9F%E5%90%88%E4%BD%9C%20%E6%8B%8D%E6%91%84%E4%B8%8E%E5%90%8E%E6%9C%9F%E5%88%B6%E4%BD%9C%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873788733,
+      "title": "白云派出所《新年祝福》拍摄",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E7%99%BD%E4%BA%91%E6%B4%BE%E5%87%BA%E6%89%80%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84%E9%A1%B9%E7%9B%AE%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E7%99%BD%E4%BA%91%E6%B4%BE%E5%87%BA%E6%89%80%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84%E9%A1%B9%E7%9B%AE%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765869157367,
+      "title": "中天房开MV",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E4%B8%AD%E5%A4%A9.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E4%B8%AD%E5%A4%A9%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84%E9%A1%B9%E7%9B%AE%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765871411229,
+      "title": "贵阳酒店用品市场宣传片",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E9%85%92%E5%BA%97%E7%94%A8%E5%93%81.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E9%85%92%E5%BA%97%E7%94%A8%E5%93%81.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873572136,
+      "title": "多特瑞精油贵州省沙龙会",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%A4%9A%E7%89%B9%E7%91%9E%E7%B2%BE%E6%B2%B9%E8%B4%B5%E5%B7%9E%E7%9C%81%E6%B2%99%E9%BE%99%E4%BC%9A.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%A4%9A%E7%89%B9%E7%91%9E%E7%B2%BE%E6%B2%B9%E8%B4%B5%E5%B7%9E%E7%9C%81%E6%B2%99%E9%BE%99%E4%BC%9A.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765869154362,
+      "title": "大唐芳华SAP宣传片",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%A4%A7%E5%94%90%E8%8A%B3%E5%8D%8E.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%A4%A7%E5%94%90%E8%8A%B3%E5%8D%8E.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765869153856,
+      "title": "德克玛电器宣传片",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%BE%B7%E5%85%8B%E7%8E%9B.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%BE%B7%E5%85%8B%E7%8E%9B.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765870581807,
+      "title": "本楠蛋糕品牌宣传片",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E6%9C%AC%E6%A5%A0.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E6%9C%AC%E6%A5%A0.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765874055236,
+      "title": "福满江餐饮宣传片",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E7%A6%8F%E6%BB%A1%E6%B1%9F%E9%A4%90%E9%A5%AE%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E5%88%B6%E4%BD%9C%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E7%A6%8F%E6%BB%A1%E6%B1%9F%E9%A4%90%E9%A5%AE%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E5%88%B6%E4%BD%9C%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765869158254,
+      "title": "贵阳WOW机车节",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E8%B4%B5%E5%B7%9E%E6%9C%BA%E8%BD%A6%E8%8A%82%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84%E4%BB%A5%E5%8F%8A%E5%90%8E%E6%9C%9F%E5%88%B6%E4%BD%9C%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E8%B4%B5%E5%B7%9E%E6%9C%BA%E8%BD%A6%E8%8A%82%E5%90%88%E4%BD%9C%E6%8B%8D%E6%91%84%E4%BB%A5%E5%8F%8A%E5%90%8E%E6%9C%9F%E5%88%B6%E4%BD%9C%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873381375,
+      "title": "体育赛事",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E4%BD%93%E8%82%B2%E8%B5%9B%E4%BA%8B.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873630950,
+      "title": "学校形象宣传片",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%AD%A6%E6%A0%A1%E5%BD%A2%E8%B1%A1%E5%AE%A3%E4%BC%A0%E7%89%87.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%AD%A6%E6%A0%A1%E5%BD%A2%E8%B1%A1%E5%AE%A3%E4%BC%A0%E7%89%87.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873420971,
+      "title": "同学会拍摄制作",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%90%8C%E5%AD%A6%E4%BC%9A%E6%91%84%E5%BD%B1%E5%8F%8A%E5%90%8E%E6%9C%9F%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%90%8C%E5%AD%A6%E4%BC%9A%E6%91%84%E5%BD%B1%E5%8F%8A%E5%90%8E%E6%9C%9F%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765869157167,
+      "title": "人民战役公益宣传片",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E4%BA%BA%E6%B0%91%E6%88%98%E5%BD%B9.jfif-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E4%BA%BA%E6%B0%91%E6%88%98%E5%BD%B9.jfif-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873170076,
+      "title": "《军号·1979》纪录片拍摄及后期",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E3%80%8A%E5%86%9B%E5%8F%B7%C2%B71979%E3%80%8B%E7%BA%AA%E5%BD%95%E7%89%87%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%20%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E3%80%8A%E5%86%9B%E5%8F%B7%C2%B71979%E3%80%8B%E7%BA%AA%E5%BD%95%E7%89%87%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%20%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765871177643,
+      "title": "《苗年》短片拍摄丹寨万达小镇苗年（获得“图虫”TOP20",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E8%8B%97%E5%B9%B4.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E6%8B%8D%E6%91%84%E4%B8%B9%E5%AF%A8%E4%B8%87%E8%BE%BE%E5%B0%8F%E9%95%87%E8%8B%97%E5%B9%B4%EF%BC%88%E8%8E%B7%E5%BE%97TOP20%EF%BC%89%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示",
+      "subBrand": ""
+    },
+    {
+      "id": 1765869154964,
+      "title": "《坠》短片公益微电影比赛项目",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%9D%A0.jfif-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%9D%A0.jfif-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2020%E6%8B%8D%E6%91%84%E5%85%AC%E7%9B%8A%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%A1%B9%E7%9B%AE%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765870751292,
+      "title": "《独立林》短片",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E7%8B%AC%E7%AB%8B%E6%9E%97.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765870924157,
+      "title": "《看星星狗》短片2022拍摄公益微电影比赛项目",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E7%9C%8B%E6%98%9F%E6%98%9F%E7%8B%97.jfif-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E7%9C%8B%E6%98%9F%E6%98%9F%E7%8B%97.jfif-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/2022%E6%8B%8D%E6%91%84%E5%85%AC%E7%9B%8A%E5%BE%AE%E7%94%B5%E5%BD%B1%E6%AF%94%E8%B5%9B%E9%A1%B9%E7%9B%AE%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765869151666,
+      "title": "《疆遇》--新疆之旅",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E6%96%B0%E7%96%86.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E6%96%B0%E7%96%86.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765869156055,
+      "title": "文旅宣传--在毕节",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%9C%A8%E6%AF%95%E8%8A%82.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%9C%A8%E6%AF%95%E8%8A%82.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765870715044,
+      "title": "《梵净山》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E6%A2%B5%E5%87%80%E5%B1%B1.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E6%A2%B5%E5%87%80%E5%B1%B1.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765873400402,
+      "title": "其余视频案例展示",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BD%99%E8%A7%86%E9%A2%91%E6%A1%88%E4%BE%8B%E5%B1%95%E7%A4%BA%20.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%BD%B1%E8%A7%86%E6%8B%8D%E6%91%84%E5%8F%8A%E5%90%8E%E6%9C%9F%E6%A1%88%E4%BE%8B/%E5%85%B6%E4%BD%99%E8%A7%86%E9%A2%91%E6%A1%88%E4%BE%8B%E5%B1%95%E7%A4%BA%20.png-NO"
+      ],
+      "subCategory": "拍摄案例图片展示"
+    },
+    {
+      "id": 1765868324482,
+      "title": "企业交流",
+      "category": "SERVICE_1765868176071",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E4%BC%81%E4%B8%9A%E5%8F%8A%E5%AD%A6%E6%A0%A1%E4%BA%A4%E6%B5%81.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E4%BC%81%E4%B8%9A%E5%8F%8A%E5%AD%A6%E6%A0%A1%E4%BA%A4%E6%B5%81.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765868263535,
+      "title": "各大学、职业学院、小学邀请授课分享",
+      "category": "SERVICE_1765868176071",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E8%8E%B7%E5%BE%97%E5%90%84%E5%A4%A7%E5%AD%A6%E3%80%81%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E3%80%81%E5%B0%8F%E5%AD%A6%E9%82%80%E8%AF%B7%E6%8E%88%E8%AF%BE%E5%88%86%E4%BA%AB.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E8%8E%B7%E5%BE%97%E5%90%84%E5%A4%A7%E5%AD%A6%E3%80%81%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E3%80%81%E5%B0%8F%E5%AD%A6%E9%82%80%E8%AF%B7%E6%8E%88%E8%AF%BE%E5%88%86%E4%BA%AB.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E8%8E%B7%E5%BE%97%E5%90%84%E5%A4%A7%E5%AD%A6%E3%80%81%E8%81%8C%E4%B8%9A%E5%AD%A6%E9%99%A2%E3%80%81%E5%B0%8F%E5%AD%A6%E9%82%80%E8%AF%B7%E6%8E%88%E8%AF%BE%E4%BA%AB.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765868217782,
+      "title": "聘请为协会品牌管理顾问",
+      "category": "SERVICE_1765868176071",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E8%81%98%E8%AF%B7%E4%B8%BA%E8%AF%A5%E5%8D%8F%E4%BC%9A%E5%93%81%E7%89%8C%E7%AE%A1%E7%90%86%E9%A1%BE%E9%97%AE%E4%B8%80%E8%81%8C.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E8%81%98%E8%AF%B7%E4%B8%BA%E8%AF%A5%E5%8D%8F%E4%BC%9A%E5%93%81%E7%89%8C%E7%AE%A1%E7%90%86%E9%A1%BE%E9%97%AE%E4%B8%80%E8%81%8C.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 2,
+      "title": "贵州省图书馆“贵图猫”",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%9B%BE%E4%B9%A6%E9%A6%86%E2%80%9C%E8%B4%B5%E5%9B%BE%E7%8C%AB%E2%80%9D%E5%BD%A2%E8%B1%A1IP%E8%AE%BE%E8%AE%A1%E5%88%92.png",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/bd38f2fb5d2a643b9e3a893bc9c1525f.png-NO"
+      ],
+      "description": "形象IP设计规划，结合水族文字与民族服饰元素。",
+      "subCategory": "VI设计"
+    },
+    {
+      "id": 1,
+      "title": "未来方舟-甜蜜小镇",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E6%9C%AA%E6%9D%A5%E6%96%B9%E8%88%9F-%E7%94%9C%E8%9C%9C%E5%B0%8F%E9%95%87%EF%BC%88%E5%B0%8F%E5%8C%BA%E5%AF%B9%E5%A4%96%E5%BD%A2%E8%B1%A1VI%E8%AE%BE%E8%AE%A1%E6%96%BD%E5%B7%A5%E5%9B%BE%E5%B1%95%E7%A4%BA%EF%BC%89.png",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E6%9C%AA%E6%9D%A5%E6%96%B9%E8%88%9F-%E7%94%9C%E8%9C%9C%E5%B0%8F%E9%95%87%E5%B0%8F%E5%8C%BA%E5%AF%B9%E5%A4%96%E5%BD%A2%E8%B1%A1VI%E8%AE%BE%E8%AE%A1%E5%8F%8A%E6%96%BD%E5%B7%A5%E5%9B%BE%E5%B1%95%E7%A4%BA.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E6%9C%AA%E6%9D%A5%E6%96%B9%E8%88%9F-%E7%94%9C%E8%9C%9C%E5%B0%8F%E9%95%87%E6%96%BD%E5%B7%A5%E7%8E%B0%E5%9C%BA.png-NO"
+      ],
+      "description": "小区对外形象VI设计及施工图展示，打造充满幸福感的城市。",
+      "subCategory": "VI设计",
+      "videoUrl": ""
+    },
+    {
+      "id": 1765866593033,
+      "title": "党建设计及安装",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%85%9A%E5%BB%BA%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%89%E8%A3%85.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%85%9A%E5%BB%BA%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%89%E8%A3%85.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%85%9A%E5%BB%BA%E8%A7%84%E5%88%92%E8%AE%BE%E8%AE%A1%E5%AE%9E%E6%99%AF%E5%9B%BE.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765866648552,
+      "title": "贵阳健康基地VI设计及安装",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%81%A5%E5%BA%B7%E5%9F%BA%E5%9C%B0VI%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%89%E8%A3%85.png-NO",
+      "description": "健康教育展览长廊设计整体规划",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%81%A5%E5%BA%B7%E5%9F%BA%E5%9C%B0VI%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%AE%89%E8%A3%85.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%81%A5%E5%BA%B7%E6%95%99%E8%82%B2%E5%B1%95%E8%A7%88%E9%95%BF%E5%BB%8A%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%92%E5%8F%8A%E5%AE%89%E8%A3%85.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 3,
+      "title": "中国工商银行西支行专属VI设计",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/ce4df502d74dda42c4b4e1a1487ab90c.png-NO",
+      "description": "贵阳市中西支行专属VI设计、创意海报设计及活动物料。",
+      "subCategory": "海报设计",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C%E4%B8%AD%E8%A5%BF%E6%94%AF%E8%A1%8C%E4%B8%93%E5%B1%9EVI%E8%AE%BE%E8%AE%A1.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%B7%A5%E5%95%86%E9%93%B6%E8%A1%8C%E8%88%9E%E5%8F%B0%E5%89%A7%E5%88%9B%E6%84%8F%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.png-NO"
+      ]
+    },
+    {
+      "id": 1765867262039,
+      "title": "贵州农商银行内刊杂志设计与印刷制作",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E8%B4%B5%E5%B7%9E%E5%86%9C%E5%95%86%E9%93%B6%E8%A1%8C%E5%86%85%E5%88%8A%E6%9D%82%E5%BF%97%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%8D%B0%E5%88%B7%E5%88%B6%E4%BD%9C.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E8%B4%B5%E5%B7%9E%E5%86%9C%E5%95%86%E9%93%B6%E8%A1%8C%E5%86%85%E5%88%8A%E6%9D%82%E5%BF%97%E8%AE%BE%E8%AE%A1%E4%B8%8E%E5%8D%B0%E5%88%B7%E5%88%B6%E4%BD%9C.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765866055706,
+      "title": "金阳大数据对外宣传册设计及制作",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/2018%E5%B9%B4%E9%87%91%E9%98%B3%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AF%B9%E5%A4%96%E5%AE%A3%E4%BC%A0%E5%86%8C%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%88%B6%E4%BD%9C.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/2018%E5%B9%B4%E9%87%91%E9%98%B3%E5%A4%A7%E6%95%B0%E6%8D%AE%E5%AF%B9%E5%A4%96%E5%AE%A3%E4%BC%A0%E5%86%8C%E8%AE%BE%E8%AE%A1%E5%8F%8A%E5%88%B6%E4%BD%9C.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765867095114,
+      "title": "国家高新区宣传册",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%9B%BD%E5%AE%B6%E9%AB%98%E6%96%B0%E5%8C%BA%E5%AE%A3%E4%BC%A0%E5%86%8C.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%9B%BD%E5%AE%B6%E9%AB%98%E6%96%B0%E5%8C%BA%E5%AE%A3%E4%BC%A0%E5%86%8C.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765866537446,
+      "title": "保利集团项目宣传设计规划",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E4%BF%9D%E5%88%A9%E9%9B%86%E5%9B%A2%E9%A1%B9%E7%9B%AE%E5%AE%A3%E4%BC%A0%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%92.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E4%BF%9D%E5%88%A9%E9%9B%86%E5%9B%A2%E9%A1%B9%E7%9B%AE%E5%AE%A3%E4%BC%A0%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%92.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765865857586,
+      "title": "2018年贵州省第二届百名优秀医生暨中国首届医师节颁奖活动设计",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/2018%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E7%AC%AC%E4%BA%8C%E5%B1%8A%E7%99%BE%E5%90%8D%E4%BC%98%E7%A7%80%E5%8C%BB%E7%94%9F%E6%9A%A8%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%B1%8A%E5%8C%BB%E5%B8%88%E8%8A%82%E9%A2%81%E5%A5%96%E6%B4%BB%E5%8A%A8%E8%AE%BE%E8%AE%A1.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/2018%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E7%AC%AC%E4%BA%8C%E5%B1%8A%E7%99%BE%E5%90%8D%E4%BC%98%E7%A7%80%E5%8C%BB%E7%94%9F%E6%9A%A8%E4%B8%AD%E5%9B%BD%E9%A6%96%E5%B1%8A%E5%8C%BB%E5%B8%88%E8%8A%82%E9%A2%81%E5%A5%96%E6%B4%BB%E5%8A%A8%E8%AE%BE%E8%AE%A1.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765867134320,
+      "title": "国际博物馆日设计及规划",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%9B%BD%E9%99%85%E5%8D%9A%E7%89%A9%E9%A6%86%E6%97%A5%E8%AE%BE%E8%AE%A1%E5%8F%8A%E8%A7%84%E5%88%92%E7%94%B2%E7%A7%80%E6%A5%BC%E4%BC%9A%E5%9C%BA.png-NO",
+      "description": "甲秀楼会场&达德小学旧址会场",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%9B%BD%E9%99%85%E5%8D%9A%E7%89%A9%E9%A6%86%E6%97%A5%E8%AE%BE%E8%AE%A1%E5%8F%8A%E8%A7%84%E5%88%92%E7%94%B2%E7%A7%80%E6%A5%BC%E4%BC%9A%E5%9C%BA.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%9B%BD%E9%99%85%E5%8D%9A%E7%89%A9%E9%A6%86%E6%97%A5%E8%AE%BE%E8%AE%A1%E5%8F%8A%E8%A7%84%E5%88%92%E8%BE%BE%E5%BE%B7%E5%B0%8F%E5%AD%A6%E6%97%A7%E5%9D%80%E4%BC%9A%E5%9C%BA.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765866351196,
+      "title": "2024年贵州省蔬菜集团技能比赛现场规划设计及搭建",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/2024%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E8%94%AC%E8%8F%9C%E9%9B%86%E5%9B%A2%E6%8A%80%E8%83%BD%E6%AF%94%E8%B5%9B%E7%8E%B0%E5%9C%BA%E8%A7%84%E5%88%92%E8%AE%BE%E8%AE%A1%E5%8F%8A%E6%90%AD%E5%BB%BA.png",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/2024%E5%B9%B4%E8%B4%B5%E5%B7%9E%E7%9C%81%E8%94%AC%E8%8F%9C%E9%9B%86%E5%9B%A2%E6%8A%80%E8%83%BD%E6%AF%94%E8%B5%9B%E7%8E%B0%E5%9C%BA%E8%A7%84%E5%88%92%E8%AE%BE%E8%AE%A1%E5%8F%8A%E6%90%AD%E5%BB%BA.png"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765867460329,
+      "title": "贵州省疾控中心活动现场设计规划及实施",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E8%B4%B5%E5%B7%9E%E7%9C%81%E7%96%BE%E6%8E%A7%E4%B8%AD%E5%BF%83%E6%B4%BB%E5%8A%A8%E7%8E%B0%E5%9C%BA%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%92%E5%8F%8A%E5%AE%9E%E6%96%BD.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E8%B4%B5%E5%B7%9E%E7%9C%81%E7%96%BE%E6%8E%A7%E4%B8%AD%E5%BF%83%E6%B4%BB%E5%8A%A8%E7%8E%B0%E5%9C%BA%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%92%E5%8F%8A%E5%AE%9E%E6%96%BD.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765866397989,
+      "title": "“家庭医生签约周启动仪式”.",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E2%80%9C%E5%AE%B6%E5%BA%AD%E5%8C%BB%E7%94%9F%E7%AD%BE%E7%BA%A6%E5%91%A8%E5%90%AF%E5%8A%A8%E4%BB%AA%E5%BC%8F%E2%80%9D.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E2%80%9C%E5%AE%B6%E5%BA%AD%E5%8C%BB%E7%94%9F%E7%AD%BE%E7%BA%A6%E5%91%A8%E5%90%AF%E5%8A%A8%E4%BB%AA%E5%BC%8F%E2%80%9D.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%81%A5%E5%BA%B7%E6%B4%BB%E5%8A%A8%E7%8E%B0%E5%9C%BA%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%92%E5%8F%8A%E5%AE%9E%E6%96%BD.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765865997898,
+      "title": "贵州苏宁红孩子",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/18%E5%B9%B4%E4%BB%BB%E8%81%8C%E8%B4%B5%E5%B7%9E%E8%8B%8F%E5%AE%81%E7%BA%A2%E5%AD%A9%E5%AD%90%E2%80%94%E2%80%94%E6%AF%8D%E5%A9%B4%E5%BA%97%E9%9D%A2%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%92.png-NO",
+      "description": "母婴门店设计规划",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/18%E5%B9%B4%E4%BB%BB%E8%81%8C%E8%B4%B5%E5%B7%9E%E8%8B%8F%E5%AE%81%E7%BA%A2%E5%AD%A9%E5%AD%90%E2%80%94%E2%80%94%E6%AF%8D%E5%A9%B4%E5%BA%97%E9%9D%A2%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%92.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765866969245,
+      "title": "同济堂物料设计规划及安装",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%90%8C%E6%B5%8E%E5%A0%82%E7%89%A9%E6%96%99%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%92%E5%8F%8A%E5%AE%89%E8%A3%85.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%90%8C%E6%B5%8E%E5%A0%82%E7%89%A9%E6%96%99%E8%AE%BE%E8%AE%A1%E8%A7%84%E5%88%92%E5%8F%8A%E5%AE%89%E8%A3%85.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765866425746,
+      "title": "贵州省天子堂教育VI升级",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E4%B8%8E%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A4%A9%E5%AD%90%E5%A0%82%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E8%BF%9B%E8%A1%8C%E5%90%88%E4%BD%9C.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E4%B8%8E%E8%B4%B5%E5%B7%9E%E7%9C%81%E5%A4%A9%E5%AD%90%E5%A0%82%E6%95%99%E8%82%B2%E5%AD%A6%E6%A0%A1%E8%BF%9B%E8%A1%8C%E5%90%88%E4%BD%9C.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765867204563,
+      "title": "大学城避孕套发放箱规划设计",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%A4%A7%E5%AD%A6%E5%9F%8E%E9%81%BF%E5%AD%95%E5%A5%97%E5%8F%91%E6%94%BE%E7%AE%B1%E8%A7%84%E5%88%92%E8%AE%BE%E8%AE%A1.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%A4%A7%E5%AD%A6%E5%9F%8E%E9%81%BF%E5%AD%95%E5%A5%97%E5%8F%91%E6%94%BE%E7%AE%B1%E8%A7%84%E5%88%92%E8%AE%BE%E8%AE%A1.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1764572837724,
+      "title": "原创独立音乐制作",
+      "category": "MUSIC",
+      "imageUrl": "http://gzydjh.asia/%E5%8E%9F%E5%88%9B%E7%8B%AC%E7%AB%8B%E9%9F%B3%E4%B9%90%E5%88%B6%E4%BD%9C%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251202230441_5_40.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%8E%9F%E5%88%9B%E7%8B%AC%E7%AB%8B%E9%9F%B3%E4%B9%90%E5%88%B6%E4%BD%9C%E5%B7%A5%E4%BD%9C%E5%AE%A4/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251202230441_5_40.png-NO"
+      ],
+      "subCategory": "原创歌曲"
+    },
+    {
+      "id": 1764556275397,
+      "title": "《伏羲》中国十大重器",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia//%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E4%BC%8F%E7%BE%B2.png",
+      "description": "央企十大国之重器",
+      "gallery": [],
+      "subBrand": "2024南方电网宣传片",
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115641826673992&bvid=BV1QQSzB9EVx&cid=34405877301&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 1764556699430,
+      "title": "《构皮滩通航工程》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia//%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E6%9E%84%E7%9A%AE%E6%BB%A9.png",
+      "description": "世界十大之最",
+      "gallery": [],
+      "subBrand": "宣传片",
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115641709234487&bvid=BV1etS6BFEx5&cid=34405223504&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 1764556698068,
+      "title": "《创维电视发布》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E8%8B%8F%E5%AE%81.png",
+      "description": "请输入案例描述...",
+      "gallery": [],
+      "subBrand": "苏宁易购",
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115641726076224&bvid=BV1gRSzBXEj3&cid=34405352000&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 1764557999495,
+      "title": "《南网电动》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%8D%97%E7%BD%91%E7%94%B5%E5%8A%A8.png",
+      "description": "请输入案例描述...",
+      "gallery": [],
+      "subBrand": "宣传片",
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115626693626487&bvid=BV1dcSjB8EPn&cid=34333066284&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 1764554839053,
+      "title": "《独立林》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E7%8B%AC%E7%AB%8B%E6%9E%97.png",
+      "description": "你相信有光吗？",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E7%8B%AC%E7%AB%8B%E6%9E%97%E5%89%A7%E7%85%A7/%E7%AB%96%E7%89%88.jpg",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E7%8B%AC%E7%AB%8B%E6%9E%97%E5%89%A7%E7%85%A7/%E5%89%A7%E7%85%A75.jpg-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E7%8B%AC%E7%AB%8B%E6%9E%97%E5%89%A7%E7%85%A7/%E5%89%A7%E7%85%A72.jpg-NO"
+      ],
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115626710402103&bvid=BV1dFSjBcEod&cid=34333068308&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subBrand": "原创微电影",
+      "subCategory": "微电影"
+    },
+    {
+      "id": 1764556703354,
+      "title": "《看星星的狗》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E7%9C%8B%E6%98%9F%E6%98%9F%E7%8B%97.jfif",
+      "description": "入职不久的现代职场女性陆菲，因为少年时母亲双面性的教育，而对生活的妥协成为一个随波逐流的人。在工作后陆菲又遭遇到了感情、事业的双失利及母亲的不理解。以及对父亲的意外去世带有的愧疚，一直没有解脱出来。之后不经意间发现父亲留下来的遗物而重拾自我以及与母亲的和解，认识生活当中真正的意义。入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E7%8B%AC%E7%AB%8B%E6%9E%97%E5%89%A7%E7%85%A7/%E6%88%90%E5%93%812-%E5%B0%81%E9%9D%A2.jpg"
+      ],
+      "subBrand": "原创微电影",
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115641709232588&bvid=BV1etS6BFEZX&cid=34405288076&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subCategory": "微电影"
+    },
+    {
+      "id": 1764556258979,
+      "title": "《坠》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%9D%A0.jfif",
+      "description": "平行时空中的救赎",
+      "gallery": [],
+      "subBrand": "原创微电影",
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115641726010487&bvid=BV1SRSzBQECM&cid=34405352707&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subCategory": "微电影"
+    },
+    {
+      "id": 1764557700049,
+      "title": "《疆遇》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E7%96%86%E9%81%87.png",
+      "description": "请输入案例描述...",
+      "gallery": [],
+      "subBrand": "房车生活加宣传片",
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=931877923&bvid=BV1EM4y1T7km&cid=378189700&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subCategory": "短视频"
+    },
+    {
+      "id": 1764554847983,
+      "title": "《我的工作日志》--黔通智联",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E9%BB%94%E9%80%9A.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [],
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115641692520800&bvid=BV19bS6BbE2f&cid=34405158388&p=1%22%20scrolling=%22no%22%20border=%220%22%20frameborder=%22no%22%20framespacing=%220%22%20allowfullscreen=%22true%22%3E%3C/iframe%3E",
+      "subBrand": "黔通智联宣传片",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 1764556700764,
+      "title": "《联动云--汽车操作指南》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E8%81%94%E5%8A%A8%E4%BA%91.png",
+      "description": "请输入案例描述...",
+      "gallery": [],
+      "subBrand": "联动云",
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115641742788908&bvid=BV1D9SzBpEVD&cid=34405354920&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 1764556271715,
+      "title": "《德克玛电器宣传片》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%BE%B7%E5%85%8B%E7%8E%9B.png",
+      "description": "请输入案例描述...",
+      "gallery": [],
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115641793119375&bvid=BV1XUSzBdEe5&cid=34405419052&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subBrand": "宣传片",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 1764554849523,
+      "title": "《以奋斗为青春·为民兴黔插上腾飞的翅膀》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E6%96%87%E4%B8%80%E6%9D%B0.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [],
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115641692456916&bvid=BV1ebS6BbEKL&cid=34405220823&p=1%22%20scrolling=%22no%22%20border=%220%22%20frameborder=%22no%22%20framespacing=%220%22%20allowfullscreen=%22true%22%3E%3C/iframe%3E",
+      "subBrand": "铁头集团宣传片",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 1764554851025,
+      "title": "《大唐芳华·盛世之美》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%A4%A7%E5%94%90%E8%8A%B3%E5%8D%8E.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [],
+      "subBrand": "宣传片",
+      "videoUrl": "https://player.bilibili.com/player.html?isOutside=true&aid=115626676847097&bvid=BV16YSjBBEbK&cid=34333001389&p=1&high_quality=1",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 1764556266896,
+      "title": "《最美梵净山》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E6%A2%B5%E5%87%80%E5%B1%B1.png",
+      "description": "请输入案例描述...",
+      "gallery": [],
+      "subBrand": "宣传片",
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115626710401394&bvid=BV1oFSjBcEED&cid=34333196445&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 1764324513304,
+      "title": "《在毕节》韭菜坪宣传片",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%9C%A8%E6%AF%95%E8%8A%82.png",
+      "description": "请输入案例描述...",
+      "gallery": [],
+      "videoUrl": "https://player.bilibili.com/player.html?isOutside=true&aid=115626710403253&bvid=BV1dFSjBcEqK&cid=34333199220&p=1%22%20scrolling=%22no%22%20border=%220%22%20frameborder=%22no%22%20framespacing=%220%22%20allowfullscreen=%22true%22%3E%3C/iframe%3E",
+      "subBrand": "宣传片",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 7,
+      "title": "《苗年》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E8%8B%97%E5%B9%B4.png",
+      "description": "苗年宣传片，获视频新星榜TOP20。",
+      "subBrand": "醒狮影视",
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=756214632&bvid=BV1Zr4y1T7Gi&cid=283220134&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subCategory": "短视频"
+    },
+    {
+      "id": 1764554845545,
+      "title": "《寻找最美》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%86%9C%E5%95%86%E8%A1%8C.png",
+      "description": "",
+      "gallery": [],
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115641692521786&bvid=BV19bS6BbEbf&cid=34405156965&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subBrand": "乌当农商行宣传片",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 1764554841373,
+      "title": "《酒店用品市场推广》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E9%85%92%E5%BA%97%E7%94%A8%E5%93%81.png",
+      "description": "请输入案例描述...",
+      "gallery": [],
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115626693691462&bvid=BV1LcSjBhEW3&cid=34333003710&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subBrand": "宣传片",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 1765867496686,
+      "title": "餐饮品牌设计",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E5%93%81%E7%89%8C%E8%AE%BE%E8%AE%A1.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E9%A4%90%E9%A5%AE%E5%93%81%E7%89%8C%E8%AE%BE%E8%AE%A1.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1765866554676,
+      "title": "保护野生动物公益海报设计",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E4%BF%9D%E6%8A%A4%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%85%AC%E7%9B%8A%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E4%BF%9D%E6%8A%A4%E9%87%8E%E7%94%9F%E5%8A%A8%E7%89%A9%E5%85%AC%E7%9B%8A%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 4,
+      "title": "抗疫公益海报",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E7%96%AB%E6%83%85%E5%85%AC%E7%9B%8A%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.png",
+      "description": "登上贵州“动静APP”登录首页，传递正能量。",
+      "subCategory": "海报设计",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E6%9C%AC%E6%B5%B7%E6%8A%A5%E7%99%BB%E4%B8%8A%E8%B4%B5%E5%B7%9E%E2%80%9C%E5%8A%A8%E9%9D%99APP%E2%80%9D%E7%99%BB%E5%BD%95%E9%A6%96%E9%A1%B5.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E7%96%AB%E6%83%85%E5%85%AC%E7%9B%8A%E6%B5%B7%E6%8A%A5%E8%AE%BE%E8%AE%A1.png"
+      ]
+    },
+    {
+      "id": 1765866844629,
+      "title": "其它品牌设计包装",
+      "category": "BRAND",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%85%B6%E5%AE%83%E5%93%81%E7%89%8C%E8%AE%BE%E8%AE%A1%E5%8C%85%E8%A3%85.png-NO",
+      "description": "请输入案例描述...",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E8%AF%91%E9%81%93%E4%BD%B3%E5%8D%8E%E5%85%B6%E4%BD%99%E6%A1%88%E4%BE%8B%E5%B1%95%E7%A4%BA.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%B3%E9%9D%A2%E6%A1%88%E4%BE%8B/%E5%85%B6%E5%AE%83%E5%93%81%E7%89%8C%E8%AE%BE%E8%AE%A1%E5%8C%85%E8%A3%85.png-NO"
+      ],
+      "subCategory": "全部"
+    },
+    {
+      "id": 1764554836355,
+      "title": "玖福城 《与你共启美好生活》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%9B%BD%E8%B4%B8.png",
+      "description": "请输入案例描述...",
+      "gallery": [],
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115626710599579&bvid=BV1oFSjBwEvF&cid=34333198649&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subBrand": "宣传片",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 5,
+      "title": "玖福城 《与你共启美好生活》",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/%E5%9B%BD%E8%B4%B8.png",
+      "description": "“中国十大国之重器”——伏羲芯片宣传片拍摄。",
+      "subBrand": "宣传片",
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115626710403722&bvid=BV1dFSjBcE1x&cid=34333197617&p=1\" scrolling=\"no\" border=\"0\" frameborder=\"no\" framespacing=\"0\" allowfullscreen=\"true\"></iframe>",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 6,
+      "title": "贵州机车节",
+      "category": "VIDEO",
+      "imageUrl": "http://gzydjh.asia/%E8%A7%86%E9%A2%91%E5%B0%81%E9%9D%A2/WOW.png",
+      "description": "2020激情贵州汽车摩托车系列赛宣传片及后期制作。",
+      "subBrand": "宣传片",
+      "videoUrl": "//player.bilibili.com/player.html?isOutside=true&aid=115626676979122&bvid=BV1nYSjBzEua&cid=34332999834&p=1%22%20scr",
+      "subCategory": "宣传片"
+    },
+    {
+      "id": 9,
+      "title": "线下活动搭建",
+      "category": "EVENT",
+      "imageUrl": "https://picsum.photos/800/600?random=9",
+      "description": "",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/_3TUG1~A/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251202230635_8_40.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/_3TUG1~A/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251202230658_9_40.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/_3TUG1~A/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251202230716_10_40.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/_3TUG1~A/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251202230734_11_40.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/_3TUG1~A/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251202230755_12_40.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/_3TUG1~A/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251202230811_13_40.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/_3TUG1~A/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251202230842_15_40.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/_3TUG1~A/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251202230559_6_40.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/_3TUG1~A/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20251202230859_16_40.png-NO"
+      ],
+      "videoUrl": ""
+    },
+    {
+      "id": 13,
+      "title": "印刷厂",
+      "category": "PRINT",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%BF%E5%91%8A%E7%89%A9%E6%96%99%26%E5%8D%B0%E5%88%B7%E5%8E%82%E6%88%BF%E5%AE%9E%E6%99%AF%E5%9B%BE/%E5%8D%B0%E5%88%B7%E5%8E%82--%E5%8E%82%E6%88%BF%E5%AE%9E%E6%99%AF%E5%9B%BE.png-NO",
+      "description": "大型专业印刷场房，可大批量印制书刊及包装等纸制用品",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%BF%E5%91%8A%E7%89%A9%E6%96%99%26%E5%8D%B0%E5%88%B7%E5%8E%82%E6%88%BF%E5%AE%9E%E6%99%AF%E5%9B%BE/%E5%8D%B0%E5%88%B7%E5%8E%82--%E5%8E%82%E6%88%BF%E5%AE%9E%E6%99%AF%E5%9B%BE.png-NO"
+      ]
+    },
+    {
+      "id": 14,
+      "title": "物料厂",
+      "category": "PRINT",
+      "imageUrl": "http://gzydjh.asia/%E5%B9%BF%E5%91%8A%E7%89%A9%E6%96%99%26%E5%8D%B0%E5%88%B7%E5%8E%82%E6%88%BF%E5%AE%9E%E6%99%AF%E5%9B%BE/%E7%89%A9%E6%96%99%E5%8E%82--%E5%8E%82%E6%88%BF%E5%AE%9E%E6%99%AF%E5%9B%BE1.png-NO",
+      "description": "配备大型喷绘机、UV机，提供开店，户外宣传，活动现场物料制作安装",
+      "gallery": [
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%BF%E5%91%8A%E7%89%A9%E6%96%99%26%E5%8D%B0%E5%88%B7%E5%8E%82%E6%88%BF%E5%AE%9E%E6%99%AF%E5%9B%BE/%E7%89%A9%E6%96%99%E5%8E%82--%E5%8E%82%E6%88%BF%E5%AE%9E%E6%99%AF%E5%9B%BE1.png-NO",
+        "http://t6f1m2ko1.hn-bkt.clouddn.com/%E5%B9%BF%E5%91%8A%E7%89%A9%E6%96%99%26%E5%8D%B0%E5%88%B7%E5%8E%82%E6%88%BF%E5%AE%9E%E6%99%AF%E5%9B%BE/%E7%89%A9%E6%96%99%E5%AE%89%E8%A3%85%E7%8E%B0%E5%9C%BA.png-NO"
+      ]
+    }
+  ],
+  "team": [
+    {
+      "id": 1765878742584,
+      "name": "译 达",
+      "role": "主理人/导演/品牌设计师",
+      "image": "http://gzydjh.asia/AI%E4%BF%AE%E5%9B%BE/%E5%B0%8F%E9%BB%91.png-NO",
+      "description": "导演/摄影指导/航拍师：译达，贵州人，导演、摄像、剪辑、调色，热爱影像创作，拍摄过多部广告宣传片和独立电影短片策划和制作",
+      "works": [],
+      "portfolioIds": [
+        2,
+        1,
+        1765866593033,
+        1765866648552,
+        1765867095114,
+        1765866055706,
+        1765867262039,
+        3,
+        1765866537446,
+        1765865857586,
+        1765867134320,
+        1765866351196,
+        1765866969245,
+        1765865997898,
+        1765866397989,
+        1765867460329,
+        1765866425746,
+        1765867204563,
+        1765867496686,
+        1765866554676,
+        1765866844629,
+        4,
+        1765869157014,
+        1765870612101,
+        1765873544653,
+        1765873131754,
+        1765869152967,
+        1765874114986,
+        1765873110069,
+        1765873081222,
+        1765874135293,
+        1765874090583,
+        1765873982725,
+        1765869156369,
+        1765873654219,
+        1765869156215,
+        1765871001926,
+        1765870976153,
+        1765873151645,
+        1765874070849,
+        1765873066354,
+        1765873759940,
+        1765873593468,
+        1765873788733,
+        1765869157367,
+        1765871411229,
+        1765873572136,
+        1765869154362,
+        1765869153856,
+        1765870581807,
+        1765874055236,
+        1765869158254,
+        1765873381375,
+        1765873630950,
+        1765873420971,
+        1765869157167,
+        1765873170076,
+        1765871177643,
+        1765869154964,
+        1765870751292,
+        1765870924157,
+        1765869151666,
+        1765869156055,
+        1765873400402
+      ]
+    },
+    {
+      "id": 1765878434725,
+      "name": "周 杨",
+      "role": "主理人/导演/摄影指导",
+      "image": "http://gzydjh.asia/AI%E4%BF%AE%E5%9B%BE/%E5%91%A8%E6%9D%A8.png-NO",
+      "description": "导演/摄影指导/航拍师：周杨，贵州人，导演、摄像、剪辑、调色，热爱影像创作，拍摄过多部广告宣传片和独立电影短片策划和制作。\n\n",
+      "works": [],
+      "portfolioIds": [
+        1765869157014,
+        1765870612101,
+        1765873544653,
+        1765873131754,
+        1765869152967,
+        1765874114986,
+        1765873110069,
+        1765873081222,
+        1765874135293,
+        1765874090583,
+        1765873982725,
+        1765869156369,
+        1765873654219,
+        1765869156215,
+        1765871001926,
+        1765870976153,
+        1765873151645,
+        1765869157367,
+        1765873593468,
+        1765873759940,
+        1765873788733,
+        1765874070849,
+        1765873066354,
+        1765871411229,
+        1765873572136,
+        1765869154362,
+        1765869153856,
+        1765870581807,
+        1765874055236,
+        1765869158254,
+        1765873381375,
+        1765873630950,
+        1765873420971,
+        1765869157167,
+        1765873170076,
+        1765871177643,
+        1765869154964,
+        1765870751292,
+        1765870924157,
+        1765869151666,
+        1765869156055,
+        1765870715044,
+        1765873400402,
+        1764556275397,
+        1764556699430,
+        1764556698068,
+        1764557999495,
+        1764554839053,
+        1764556703354,
+        1764556258979,
+        1764557700049,
+        1764554847983,
+        1764556700764,
+        1764556271715,
+        1764554849523,
+        1764554851025,
+        1764556266896,
+        1764324513304,
+        7,
+        5,
+        1764554836355,
+        1764554841373,
+        1764554845545,
+        6
+      ]
+    },
+    {
+      "id": 1764322431082,
+      "name": "龙予成林",
+      "role": "主理人/独立音乐制作人",
+      "image": "http://gzydjh.asia/AI%E4%BF%AE%E5%9B%BE/%E9%BE%99%E9%BE%99.png-NO",
+      "portfolioIds": [
+        1764556703354,
+        1764554839053,
+        1764556273922,
+        1764556258979,
+        1764556699430,
+        1764557700049,
+        1,
+        2,
+        3,
+        4
+      ],
+      "description": "主理人/独立音乐制作人，参与过多部独立电影\\微电影\\宣传片BGM音乐制作"
+    },
+    {
+      "id": 1764322424902,
+      "name": "韩宇涛",
+      "role": "剪辑指导/灯光师",
+      "image": "http://gzydjh.asia/AI%E4%BF%AE%E5%9B%BE/%E9%9F%A9.png-NO",
+      "portfolioIds": [
+        1764556703354,
+        1764556258979,
+        1764556273922,
+        1764557700049,
+        1764556699430,
+        1764554849523,
+        1764556275397,
+        1764554851025,
+        1764556266896,
+        1764554836355,
+        5,
+        6,
+        1764556700764,
+        1764554847983,
+        1764554845545,
+        1764324513304,
+        1764556695899,
+        1764554839053,
+        7,
+        1764556271715,
+        1764554841373,
+        1764556698068
+      ],
+      "description": "剪辑指导/灯光师：贵州人，剪辑、灯光，热爱影像创作，拍摄过多部广告宣传片和独立电影短片制作。"
+    },
+    {
+      "id": 1764322424699,
+      "name": "赵天翊",
+      "role": "摄影师/航拍飞手",
+      "image": "http://gzydjh.asia/AI%E4%BF%AE%E5%9B%BE/%E8%B5%B5%E5%A4%A9%E7%BF%8A.png-NO",
+      "portfolioIds": [
+        1764556258979,
+        1764556703354,
+        1764554839053,
+        7,
+        1764554849523,
+        1764556699430
+      ],
+      "description": "摄影师/航拍飞手，拍摄过多部广告宣传片和独立电影短片"
+    },
+    {
+      "id": 1764322413006,
+      "name": "陈俊晨",
+      "role": "摄影师/特效包装师",
+      "image": "http://gzydjh.asia/AI%E4%BF%AE%E5%9B%BE/%E9%99%88%E4%BF%8A%E6%99%A8.png-NO",
+      "portfolioIds": [
+        1764556703354,
+        1764556258979,
+        1764554851025,
+        7,
+        1764556266896,
+        1764556700764,
+        1764556699430,
+        1764556695899,
+        1764556275397
+      ],
+      "description": "摄影师/特效包装师，拍摄过多部广告宣传片和独立电影短片"
+    },
+    {
+      "id": 1764322411493,
+      "name": "易 腾",
+      "role": "剪辑师/特效包装师",
+      "image": "http://gzydjh.asia/AI%E4%BF%AE%E5%9B%BE/%E6%98%93.png-NO",
+      "portfolioIds": [
+        1764556703354,
+        1764554839053,
+        1764556273922,
+        1764556258979,
+        1764556699430,
+        1764556698068,
+        1764557999495,
+        1764556275397,
+        1764557700049,
+        1764556695899,
+        1764556271715,
+        1764556266896,
+        1764556700764,
+        1764554851025,
+        1764554849523,
+        1764554847983,
+        1764324513304,
+        1764554841373,
+        5,
+        1764554836355,
+        1764554845545,
+        7
+      ],
+      "description": "剪辑师/特效包装师，拍摄过多部广告宣传片和独立电影短片"
+    },
+    {
+      "id": 1764322410106,
+      "name": "张 帅",
+      "role": "美术指导/活动搭建",
+      "image": "http://gzydjh.asia/AI%E4%BF%AE%E5%9B%BE/%E5%BC%A0%E5%B8%85.png-NO",
+      "description": "美术指导/活动搭建，参与过多部独立电创作以及线下活动的搭建"
+    },
+    {
+      "id": 1,
+      "name": "陈 晶",
+      "role": "策划师.文案",
+      "image": "http://gzydjh.asia/AI%E4%BF%AE%E5%9B%BE/%E9%99%88%E6%99%B6.png-NO",
+      "portfolioIds": [
+        1764556703354,
+        1764554839053,
+        1764556273922,
+        1764556258979,
+        1764556699430,
+        1764557999495,
+        1764556275397,
+        1764557700049,
+        1764556695899,
+        1764554851025,
+        1764554849523,
+        1764554845545,
+        1764554841373
+      ],
+      "description": "策划师.文案，策划过多部广告宣传片和独立电影短片剧本"
+    },
+    {
+      "id": 2,
+      "name": "丁 丁",
+      "role": "策划师.文案",
+      "image": "http://gzydjh.asia/AI%E4%BF%AE%E5%9B%BE/%E4%B8%81.png-NO",
+      "portfolioIds": [
+        1764556703354,
+        1764554839053,
+        1764556273922,
+        1764556258979,
+        1764556698068,
+        1764557999495,
+        1764556275397,
+        1764554851025,
+        7
+      ],
+      "description": "策划师.文案，策划过多部广告宣传片和独立电影短片剧本"
+    },
+    {
+      "id": 3,
+      "name": "陈磊",
+      "role": "物料规划师",
+      "image": "http://gzydjh.asia/AI%E4%BF%AE%E5%9B%BE/%E9%99%88%E7%A3%8A.png-NO",
+      "portfolioIds": [
+        1764556695899,
+        2,
+        1,
+        1765866593033,
+        1765866648552,
+        3,
+        1765867262039,
+        1765866055706,
+        1765867095114,
+        1765866537446,
+        1765865857586,
+        1765867134320,
+        1765866351196,
+        1765867460329,
+        1765866397989,
+        1765865997898,
+        1765866969245,
+        1765866425746,
+        1765867496686,
+        1765866554676,
+        1765867204563,
+        1765866844629,
+        4
+      ],
+      "description": "物料规划师，线下物料厂房负责人"
+    }
+  ],
+  "footerLogos": [
+    "",
+    "",
+    ""
+  ],
+  "textContent": {
+    "heroTitleLine1": "打造一站式解决方案",
+    "heroTitleLine2": "为热爱而生·为您而来",
+    "heroSubtitle": "品牌设计 · 影视制作\n音乐原创 · 活动搭建\n物料制作及安装",
+    "heroButtonPrimary": "查看案例",
+    "heroButtonSecondary": "联系我们",
+    "aboutTitleSmall": "About Yidao Jiahua",
+    "aboutTitleLargeLine1": "以视觉传达为核心",
+    "aboutTitleLargeLine2": "构建文化影响力",
+    "aboutDescP1": "贵州译道佳华文化发展有限公司，前身是一家深耕行业10多年的品牌设计工作室。现以视觉传达为核心，协助各政府.机构.企业宣传推广的创意型文化发展公司。我们不只是设计的执行者，更是品牌价值的塑造者。",
+    "aboutDescP2": "旗下分支品牌有【醒狮影视】&【龙予成林音乐工作室】影音创作组织架构，旗下股份兄弟公司联合作业。现场搭建执行各大小活动，旗下有广告物料及印刷包装厂房联合开展。协助各大中小型政府.机构.企业解决品牌宣传，视频拍摄活动搭建等一站式服务。\n",
+    "aboutExpYear": "100",
+    "aboutExpLabel": "成功案例",
+    "aboutTeamTitle": "Core Team",
+    "clientLogosTitleSmall": "Trusted By",
+    "clientLogosTitleLarge": "部分合作品牌",
+    "servicesTitleSmall": "Service Fields",
+    "servicesTitleLarge": "经营范围",
+    "servicesDesc": "我们提供全链路的创意服务，从视觉到听觉，从线上到线下，全方位助力品牌价值提升，全流程一站式服务。",
+    "servicesCtaTitle": "定制化解决方案",
+    "servicesCtaDesc": "没有找到您需要的服务？\n联系我们获取专属方案。",
+    "servicesCtaButton": "立即咨询",
+    "portfolioTitleSmall": "Selected Works",
+    "portfolioTitleLarge": "精选案例",
+    "portfolioButtonAdd": "添加新案例",
+    "contactTitle": "YIDAO JIAHUA",
+    "contactDesc": "我们致力于将文化与商业完美融合，通过独特的视觉语言和创新的执行方案，为品牌创造持久的影响力。",
+    "contactProjectCount": "100+",
+    "contactProjectLabel": "案例",
+    "contactClientCount": "10+",
+    "contactClientLabel": "经验",
+    "contactLabelCall": "Call Us",
+    "contactLabelVisit": "Visit Us",
+    "contactMenuTitle": "Menu",
+    "contactPartnersTitle": "Partners & Certifications",
+    "contactPhone1": "15985194981",
+    "contactPhone2": "13984832580",
+    "contactAddress": "贵州省贵阳市"
+  },
+  "textStyles": {
+    "heroTitleLine2": {
+      "letterSpacing": 9.5,
+      "fontSize": 155,
+      "fontFamily": "Noto Sans SC"
+    },
+    "heroSubtitle": {
+      "letterSpacing": 2,
+      "lineHeight": 1.6
+    }
+  },
+  "wechatQrCode": "http://t6f1m2ko1.hn-bkt.clouddn.com/LOGO/%E4%BA%8C%E7%BB%B4%E7%A0%81.png",
+  "backgroundMusicUrl": "http://gzydjh.asia/MUSIC/%E4%B8%BB%E6%AD%8C1.mp3",
+  "categoryTags": {
+    "BRAND": [
+      "全部"
+    ],
+    "VIDEO": [
+      "全部",
+      "宣传片",
+      "短视频",
+      "微电影",
+      "拍摄案例图片展示"
+    ],
+    "MUSIC": [
+      "全部",
+      "原创歌曲"
+    ],
+    "EVENT": [
+      "全部"
+    ],
+    "PRINT": [
+      "全部"
+    ],
+    "ALL": [
+      "全部"
+    ],
+    "SERVICE_1765868176071": [
+      "全部"
+    ]
+  }
+}
